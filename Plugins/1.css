@@ -1,0 +1,19 @@
+body{
+	background-color:lightblue ;
+}
+.link{
+	
+	font-family: sans-serif;
+	font-size: 25px;
+	color: dimgray;
+		
+}
+h1{
+	padding-left: 820px;
+	font-size: 35px;
+	font-family: sans-serif;
+	color: darkgreen;
+}
+a:hover{
+color: blueviolet;
+}
